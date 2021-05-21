@@ -1,0 +1,38 @@
+        "patches": {
+            "drupal/ajax_add_to_cart": {
+                "Configuration page / Disable": "https://www.drupal.org/files/issues/disable_the_popup-2929613-1.patch",
+                "No longer working for any users running Drupal 8.5": "https://www.drupal.org/files/issues/2018-04-04/no_longer_working-2953588-3.patch"
+            },
+            "drupal/animations": {
+                "Not logged in [sur 1.x.dev 12 Feb 2018]": "https://www.drupal.org/files/issues/2850511.patch"
+            },
+            "drupal/block_token": {
+                "Notice: Undefined index: block_token": "https://www.drupal.org/files/issues/block_token_primary_php_notice-2926941-2.patch"
+            },
+            "drupal/commerce": {
+                "Create an entity_print renderer for orders:commerce/issues/2831952": "https://www.drupal.org/files/issues/2018-12-28/commerce-order-2831952-67.patch",
+            },
+            "drupal/core": {
+                "Dynamic Views Arguments via Tokens": "https://www.drupal.org/files/issues/2019-12-10/drupal-dynamic_views_arguments_via_tokens-1699378-196.patch",
+                "ManyToOneHelper ignores group configuration for some cases and forces INNER joins: issues/2559961": "https://www.drupal.org/files/issues/2018-08-02/manytoonehelper_ignores-2559961-44-8.5.x.patch",
+                "Remove HTML Debug Comments from a particular field in debug mode: 2672656": "https://www.drupal.org/files/issues/2018-04-23/2672656-31.patch"
+            },
+            "drupal/ctools": {
+                "manually pass an argument to a views block through interface: ctools/issues/2759445": "https://www.drupal.org/files/issues/2019-03-28/ctools_views-pass_arguments_to_viewsblock-2759445-37.patch"
+            },
+            "drupal/entity_print": {
+                "PDF generation errors with DomPDF due to drupalSettings: issues/2969184": "https://www.drupal.org/files/issues/2018-05-03/entity_print-dompdf-2969184.patch"
+            },
+            "drupal/field_group": {
+                "Tokens in field group's css classes": "https://www.drupal.org/files/issues/2019-01-15/field_group-tokens_in_classes-2858336-16.patch"
+            },
+            "drupal/pathologic": {
+                "Convert href to the aliased url if possible": "https://www.drupal.org/files/issues/2018-03-31/pathologic_use_alias-2692641-11.patch"
+            },
+            "drupal/rabbit_hole": {
+                "Support for the commerce entities": "https://www.drupal.org/files/issues/commerce_support-2900548-3.patch"
+            },
+            "drupal/views_infinite_scroll": {
+                "Different item count for 1st and other pages : issues/2852080": "https://www.drupal.org/files/issues/2020-09-08/different_item_count-2852080-50.patch"
+            }
+        }
