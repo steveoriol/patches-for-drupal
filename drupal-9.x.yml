@@ -1,0 +1,27 @@
+        "patches": {
+            "drupal/better_exposed_filters": {
+                "Reset button does not use AJAX : project/better_exposed_filters/issues/2996297": "https://www.drupal.org/files/issues/2020-12-24/better_exposed_filters-reset_button_ajax_5beta1-2996297-45-D8.patch"
+            },
+            "drupal/core": {
+                "Allow edit Media items from Media Library modal dialog in CKEditor: project/drupal/issues/3168868": "https://www.drupal.org/files/issues/2021-04-21/3168868-13_0.patch",
+                "Allow text field to enforce a specific text format: project/drupal/issues/784672": "https://www.drupal.org/files/issues/2021-04-01/allowed_text_formats-784672-184.patch",
+                "Cannot use relationship for rendered entity on Views: project/drupal/issues/2457999": "https://www.drupal.org/files/issues/2020-12-01/cannot-use-relationship-2457999-259.patch",
+                "Drupal.ajax does not guarantee that add new JS file to page: project/drupal/issues/1988968": "https://www.drupal.org/files/issues/2020-11-16/1988968-218-92X.patch",
+                "ImageItem::getUploadValidators() should be the source of truth for validating uploaded images: project/drupal/issues/3008292": "https://www.drupal.org/files/issues/2021-04-14/3008292-32.patch",
+                "Return translated term name on views: project/drupal/issues/2765297": "https://www.drupal.org/files/issues/2021-03-19/taxonomy_translation_2765297_63.patch",
+                "[PP-1] Use hook_theme_suggestions in views: drupal/issues/2923634": "https://www.drupal.org/files/issues/2923634-22.patch"
+            },
+            "drupal/imageapi_optimize_webp": {
+                "[3213379] WebP images are not regenerated when using image_widget_crop": "https://www.drupal.org/files/issues/2021-05-11/3213379-3-regenerate-webp-images-on-crop-update.patch",
+                "[3212176] imageapi_optimize_webp_responsive says its not compatible with Drupal 9": "https://www.drupal.org/files/issues/2021-05-04/patch.patch"
+            },
+            "drupal/pathologic": {
+                "Convert href to the aliased url if possible : project/pathologic/issues/2692641": "https://www.drupal.org/files/issues/2019-10-20/2692641-15.diff"
+            },
+            "drupal/photoswipe": {
+                "Support for Drupal 8 responsive images : project/photoswipe/issues/2980534": "https://www.drupal.org/files/issues/2021-04-17/photoswipe-2980534-26.patch"
+            },
+            "drupal/views_field_view": {
+                "Contextual filter parameter is not working : project/views_field_view/issues/2873359": "https://www.drupal.org/files/issues/2020-09-17/multible_Contextual_filter_parameter-2873359-25.patch"
+            }
+        }
