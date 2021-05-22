@@ -5,9 +5,10 @@
             "drupal/core": {
                 "Allow edit Media items from Media Library modal dialog in CKEditor: project/drupal/issues/3168868": "https://www.drupal.org/files/issues/2021-04-21/3168868-13_0.patch",
                 "Allow text field to enforce a specific text format: project/drupal/issues/784672": "https://www.drupal.org/files/issues/2021-04-01/allowed_text_formats-784672-184.patch",
+                "Also use text editor (CKEditor) for summary of a text field: project/drupal/issues/2671162": "https://www.drupal.org/files/issues/2021-05-06/2671162_79.patch",
                 "Cannot use relationship for rendered entity on Views: project/drupal/issues/2457999": "https://www.drupal.org/files/issues/2020-12-01/cannot-use-relationship-2457999-259.patch",
                 "Drupal.ajax does not guarantee that add new JS file to page: project/drupal/issues/1988968": "https://www.drupal.org/files/issues/2020-11-16/1988968-218-92X.patch",
-                "ImageItem::getUploadValidators() should be the source of truth for validating uploaded images: project/drupal/issues/3008292": "https://www.drupal.org/files/issues/2021-04-14/3008292-32.patch",
+                "ImageItem::getUploadValidators() should be the source of truth for validating uploaded images: project/drupal/issues/3008292": "https://git.drupalcode.org/project/drupal/-/merge_requests/553.diff",
                 "Return translated term name on views: project/drupal/issues/2765297": "https://www.drupal.org/files/issues/2021-03-19/taxonomy_translation_2765297_63.patch",
                 "[PP-1] Use hook_theme_suggestions in views: drupal/issues/2923634": "https://www.drupal.org/files/issues/2923634-22.patch"
             },
