@@ -1,0 +1,42 @@
+        "patches": {
+            "drupal/better_exposed_filters": {
+                "[2938761] BEF Links not working with AJAX": "https://www.drupal.org/files/issues/2021-06-16/better_exposed_filters_2938761-65.patch"
+            },
+            "drupal/core": {
+                "[1988968] Drupal.ajax does not guarantee that add new JS file to page": "https://www.drupal.org/files/issues/2021-05-27/1988968-228--9.2.x.patch",
+                "[2457999] Cannot use relationship for rendered entity on Views": "https://www.drupal.org/files/issues/2020-12-01/cannot-use-relationship-2457999-259.patch",
+                "[2671162] Also use text editor (CKEditor) for summary of a text field": "https://www.drupal.org/files/issues/2021-05-06/2671162_79.patch",
+                "[2765297] Return translated term name on views": "https://www.drupal.org/files/issues/2021-03-19/taxonomy_translation_2765297_63.patch",
+                "[2903924] Fix for global view counter": "https://www.drupal.org/files/issues/2019-08-29/2903924-14.patch",
+                "[2923634] [PP-1] Use hook_theme_suggestions in views": "https://www.drupal.org/files/issues/2923634-22.patch",
+                "[3008292] ImageItem::getUploadValidators() should be the source of truth for validating uploaded images": "https://git.drupalcode.org/project/drupal/-/merge_requests/553.diff",
+                "[3168868] Allow edit Media items from Media Library modal dialog in CKEditor": "https://www.drupal.org/files/issues/2021-04-21/3168868-13_0.patch",
+                "[3168966] Add ability to insert Media inline in CKEditor widget": "https://www.drupal.org/files/issues/2020-11-10/3168966_11.patch",
+                "[784672] Allow text field to enforce a specific text format": "https://www.drupal.org/files/issues/2021-04-01/allowed_text_formats-784672-184.patch"
+            },
+            "drupal/entity_embed": {
+                "[2640398] Allow <drupal-entity> elements to be inline CKEditor Widgets": "https://www.drupal.org/files/issues/2020-12-03/entity_embed-inline_widget-2640398-88.patch"
+            },
+            "drupal/imageapi_optimize_webp": {
+                "[3212176] imageapi_optimize_webp_responsive says its not compatible with Drupal 9": "https://www.drupal.org/files/issues/2021-05-04/patch.patch",
+                "[3213379] WebP images are not regenerated when using image_widget_crop": "https://www.drupal.org/files/issues/2021-05-11/3213379-3-regenerate-webp-images-on-crop-update.patch"
+            },
+            "drupal/menu_item_extras": {
+                "[3092021] double suggestions": "https://www.drupal.org/files/issues/2021-05-07/3092021-double-suggestion_1.patch"
+            },
+            "drupal/pathologic": {
+                "[2692641] Convert href to the aliased url if possible": "https://www.drupal.org/files/issues/2019-10-20/2692641-15.diff"
+            },
+            "drupal/photoswipe": {
+                "[2980534] Support for Drupal 8 responsive images": "https://www.drupal.org/files/issues/2021-04-17/photoswipe-2980534-26.patch"
+            },
+            "drupal/simple_image_rotate": {
+                "[3211423] Remove old info added by old Drupal.org packaging script": "https://git.drupalcode.org/project/simple_image_rotate/-/merge_requests/2.diff"
+            },
+            "drupal/smart_trim": {
+                "[1913736] Short articles are not trimmed but have read more link...": "https://www.drupal.org/files/issues/2020-06-26/1913736-41-show-read-more-only-if-trimmed.patch"
+            },
+            "drupal/views_field_view": {
+                "[2873359] Contextual filter parameter is not working": "https://www.drupal.org/files/issues/2020-09-17/multible_Contextual_filter_parameter-2873359-25.patch"
+            }
+        }
